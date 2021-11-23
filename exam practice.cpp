@@ -14,6 +14,8 @@ int main()
     ios::sync_with_stdio(0); 
     cin.tie(0); 
     cout.tie(0);
+
+// hamid do it fast
     
 
 int p, y, x, c, i, j, max, f, s;
